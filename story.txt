@@ -1,0 +1,20 @@
+knock knock knock
+  ^^
+ (00)
+( -- ) who is it
+   |
+ /   \
+   |
+  / \
+
+it is a rabbit
+
+knock knock knock
+  ^^
+ (&&)
+( - ) who is it
+  |
+/  \
+  |
+/ \
+it is his grandma
